@@ -1,6 +1,8 @@
 # xthst
 Test (testing) for slope homogeneity in large panels Use xthst With STATA 19
 
+https://www.youtube.com/watch?v=h5NZzEyNFNs
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
